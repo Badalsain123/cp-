@@ -1,0 +1,5 @@
+A =  input()
+b = int(input())
+ch =chr(b)
+index =  A.find(ch)
+print(index)
